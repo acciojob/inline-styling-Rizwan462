@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{
+	margin: 0;
+	text-align: center;
+	background-color: yellow;
+	font-family: arial sans-serif;
+}
+.flower_info{
+	max-width: 600px;
+	margin: auto;
+}
+.flower-section{
+	padding: 40px 0;
+}
